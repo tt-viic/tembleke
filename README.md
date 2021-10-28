@@ -19,10 +19,10 @@ Tested in:
 ⠀ 
 ⠀ 
 ## FUNCTIONING
+⠀ 
+⠀ 
+![tembleke_gif_viic](https://user-images.githubusercontent.com/78870476/139332237-cf7663f8-82ff-45d5-8983-180b7a34ad38.gif)
 
-
-
-fin
 ⠀ 
 ⠀ 
 ## CREDITS
